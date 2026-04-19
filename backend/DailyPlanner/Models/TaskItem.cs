@@ -3,7 +3,6 @@ using System.Text.Json.Serialization;
 
 namespace Daily_Planning.Models
 {
-    [JsonConverter(typeof(JsonStringEnumConverter))]
     public enum Priority
     {
         Low,
@@ -18,7 +17,6 @@ namespace Daily_Planning.Models
         [MinLength(3)]
         [MaxLength(255)]
         public string Title { get; set; }
-        [MinLength(50)]
         [MaxLength(2048)]
         public string? Description { get; set; }
         [Required]

@@ -1,6 +1,6 @@
 export enum Priority {
     low = "Low",
-    medium = "Medium",
+    middle = "Middle",
     high = "High"
 }
 
@@ -17,7 +17,7 @@ export interface TaskResponseDTO {
 export interface TaskRequestDTO {
     title: string;
     description: string;
-    dueDate: Date;
+    dueDate: string;
     priority: Priority;
 }
 

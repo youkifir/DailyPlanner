@@ -1,5 +1,6 @@
 ﻿using Daily_Planning.Models;
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace DailyPlanner.Models.ModelsDTO
 {
@@ -9,7 +10,6 @@ namespace DailyPlanner.Models.ModelsDTO
         [MinLength(3)]
         [MaxLength(255)]
         public string Title { get; set; }
-        [MinLength(50)]
         [MaxLength(2048)]
         public string? Description { get; set; }
         [Required]
