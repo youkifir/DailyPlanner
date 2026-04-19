@@ -3,6 +3,7 @@ backend/DailyPlanner/appsettings.json
 backend/DailyPlanner/bin/
 backend/DailyPlanner/obj/
 backend/.vs/
+backend/DaylyPlanner/.vs/
 *.user
 *.suo
 

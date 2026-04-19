@@ -4,7 +4,6 @@ using Daily_Planning.Services;
 using DailyPlanner.Models.ModelsDTO;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
