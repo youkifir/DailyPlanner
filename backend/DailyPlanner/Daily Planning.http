@@ -1,0 +1,6 @@
+@Daily_Planning_HostAddress = http://localhost:5106
+
+GET {{Daily_Planning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

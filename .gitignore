@@ -1,0 +1,13 @@
+# Backend
+backend/DailyPlanner/appsettings.json
+backend/DailyPlanner/bin/
+backend/DailyPlanner/obj/
+backend/.vs/
+*.user
+*.suo
+
+# Frontend
+frontend/daily-planner/node_modules/
+frontend/daily-planner/dist/
+frontend/daily-planner/.env
+frontend/daily-planner/.env.local
