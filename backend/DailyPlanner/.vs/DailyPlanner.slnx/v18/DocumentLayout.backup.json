@@ -54,8 +54,7 @@
               "RelativeToolTip": "Models\\ModelsDTO\\TaskRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwBAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T12:12:58.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T12:12:58.475Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "Models\\TaskItem.cs",
               "ToolTip": "C:\\Users\\steam\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DailyPlanner\\backend\\DailyPlanner\\Models\\TaskItem.cs",
               "RelativeToolTip": "Models\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T13:14:59.994Z",
               "EditorCaption": ""
@@ -92,8 +91,7 @@
               "RelativeToolTip": "Controllers\\TasksController.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAUwFcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T16:43:48.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T16:43:48.308Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "Models\\ModelsDTO\\TaskResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T13:22:20.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T13:22:20.081Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAwwCAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T17:42:05.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T17:42:05.777Z"
             },
             {
               "$type": "Document",

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\steam\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DailyPlanner\\backend\\DailyPlanner\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D045E86C-4E47-EF92-B4B9-6D6908D59643}|DailyPlanner.csproj|c:\\users\\steam\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\dailyplanner\\backend\\dailyplanner\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D045E86C-4E47-EF92-B4B9-6D6908D59643}|DailyPlanner.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D045E86C-4E47-EF92-B4B9-6D6908D59643}|DailyPlanner.csproj|c:\\users\\steam\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\dailyplanner\\backend\\dailyplanner\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D045E86C-4E47-EF92-B4B9-6D6908D59643}|DailyPlanner.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D045E86C-4E47-EF92-B4B9-6D6908D59643}|DailyPlanner.csproj|c:\\users\\steam\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\dailyplanner\\backend\\dailyplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D045E86C-4E47-EF92-B4B9-6D6908D59643}|DailyPlanner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D045E86C-4E47-EF92-B4B9-6D6908D59643}|DailyPlanner.csproj|c:\\users\\steam\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\dailyplanner\\backend\\dailyplanner\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D045E86C-4E47-EF92-B4B9-6D6908D59643}|DailyPlanner.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D045E86C-4E47-EF92-B4B9-6D6908D59643}|DailyPlanner.csproj|c:\\users\\steam\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\dailyplanner\\backend\\dailyplanner\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TaskRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\steam\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DailyPlanner\\backend\\DailyPlanner\\Models\\ModelsDTO\\TaskRequestDTO.cs",
               "RelativeDocumentMoniker": "Models\\ModelsDTO\\TaskRequestDTO.cs",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\steam\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DailyPlanner\\backend\\DailyPlanner\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "Models\\TaskItem.cs",
@@ -83,19 +83,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\steam\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DailyPlanner\\backend\\DailyPlanner\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
               "ToolTip": "C:\\Users\\steam\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DailyPlanner\\backend\\DailyPlanner\\Controllers\\TasksController.cs",
               "RelativeToolTip": "Controllers\\TasksController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAUwFcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwv1cAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T16:43:48.308Z"
+              "WhenOpened": "2026-04-13T16:43:48.308Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TaskResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\steam\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DailyPlanner\\backend\\DailyPlanner\\Models\\ModelsDTO\\TaskResponseDTO.cs",
               "RelativeDocumentMoniker": "Models\\ModelsDTO\\TaskResponseDTO.cs",
@@ -107,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\steam\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DailyPlanner\\backend\\DailyPlanner\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

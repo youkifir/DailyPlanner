@@ -93,36 +93,40 @@ const Tasks = () => {
 
 
     return (
-        <div>
+        <div className="max-w-4xl mx-auto px-4 py-8 space-y-8">
             {/* ------------ CREATE FORM ------------ */}
-            <div>
+            <div className="bg-white border border-gray-200 rounded-xl p-6 space-y-4">
                 <input
                     value={title}
                     onChange={(e) => setTitle(e.target.value)}
                     placeholder="Title"
+                    className="w-full border border-gray-300 rounded-1g px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
                 />
                 <input
                     value={description}
                     onChange={(e) => setDescription(e.target.value)}
                     placeholder="Description"
+                    className="w-full border border-gray-300 rounded-1g px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
                 />
                 <input
                     value={dueDate}
                     onChange={(e) => setDueDate(e.target.value)}
                     type="date"
+                    className="w-full border border-gray-300 rounded-1g px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
                 />
                 <label htmlFor="priority">Priority</label>
                 <select
                     value={priority}
                     onChange={(e) => setPriority(e.target.value as Priority)}
+                    className="w-full border border-gray-300 rounded-1g px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
                 >
                     <option value={Priority.low}>Low</option>
                     <option value={Priority.middle}>Middle</option>
                     <option value={Priority.high}>High</option>
                 </select>
                 <button
-                    onClick={() =>
-                        handleCreate()}>
+                    onClick={() => handleCreate}
+                    className="w-full bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium rounded-lg py2 transition-colors">
                     Create
                 </button>
             </div>
@@ -199,6 +203,7 @@ const Tasks = () => {
                     </form>
                     <button onClick={() => setEditingTask(null)}>Close</button>
                 </div>
+
             )}
         </div >
     );
