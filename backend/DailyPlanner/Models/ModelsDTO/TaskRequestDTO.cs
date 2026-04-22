@@ -7,7 +7,6 @@ namespace DailyPlanner.Models.ModelsDTO
     public class TaskRequestDTO
     {
         [Required]
-        [MinLength(3)]
         [MaxLength(255)]
         public string Title { get; set; }
         [MaxLength(2048)]

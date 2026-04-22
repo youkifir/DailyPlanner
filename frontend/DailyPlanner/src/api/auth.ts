@@ -11,3 +11,6 @@ export const login = async (data: LoginRequestDTO) => {
     return response.data;
 }
 
+export const logout = async () => {
+    localStorage.removeItem("token");
+}

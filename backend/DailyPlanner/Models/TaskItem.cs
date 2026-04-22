@@ -14,7 +14,6 @@ namespace Daily_Planning.Models
         [Required]
         public int Id { get; set; }
         [Required]
-        [MinLength(3)]
         [MaxLength(255)]
         public string Title { get; set; }
         [MaxLength(2048)]
